@@ -8,6 +8,9 @@
 <body>
 <p>This is my initial version</p> 
 <p>address : cit labs</p>
+
+<p>additional information 1</p>
+
 </body>
 
 </html>
