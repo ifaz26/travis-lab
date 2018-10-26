@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<link href ="fonts.css" rel="stylesheet" type="text/css"/>
 <head>
 <meta charset="UTF-8">
 <title>RaiseTheRoof</title>
